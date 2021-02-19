@@ -34,8 +34,9 @@ body {
     font-weight: bold;
 }
 
-.item-color{
+.item-format{
     color: #2e1c10 !important;
+    text-decoration: none;
 }
 
 .navbar.navbar-expand-lg.navbar-light{
